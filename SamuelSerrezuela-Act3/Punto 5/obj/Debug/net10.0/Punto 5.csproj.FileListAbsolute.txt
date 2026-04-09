@@ -1,0 +1,28 @@
+E:\2026 P.o.o\3\SamuelSerrezuela-Act3\Punto 5\bin\Debug\net10.0\Punto 5.exe
+E:\2026 P.o.o\3\SamuelSerrezuela-Act3\Punto 5\bin\Debug\net10.0\Punto 5.deps.json
+E:\2026 P.o.o\3\SamuelSerrezuela-Act3\Punto 5\bin\Debug\net10.0\Punto 5.runtimeconfig.json
+E:\2026 P.o.o\3\SamuelSerrezuela-Act3\Punto 5\bin\Debug\net10.0\Punto 5.dll
+E:\2026 P.o.o\3\SamuelSerrezuela-Act3\Punto 5\bin\Debug\net10.0\Punto 5.pdb
+E:\2026 P.o.o\3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\Punto 5.GeneratedMSBuildEditorConfig.editorconfig
+E:\2026 P.o.o\3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\Punto 5.AssemblyInfoInputs.cache
+E:\2026 P.o.o\3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\Punto 5.AssemblyInfo.cs
+E:\2026 P.o.o\3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\Punto 5.csproj.CoreCompileInputs.cache
+E:\2026 P.o.o\3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\Punto 5.dll
+E:\2026 P.o.o\3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\refint\Punto 5.dll
+E:\2026 P.o.o\3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\Punto 5.pdb
+E:\2026 P.o.o\3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\Punto 5.genruntimeconfig.cache
+E:\2026 P.o.o\3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\ref\Punto 5.dll
+C:\Users\alumno\Downloads\SamuelSerrezuela-Act3\SamuelSerrezuela-Act3\Punto 5\bin\Debug\net10.0\Punto 5.exe
+C:\Users\alumno\Downloads\SamuelSerrezuela-Act3\SamuelSerrezuela-Act3\Punto 5\bin\Debug\net10.0\Punto 5.deps.json
+C:\Users\alumno\Downloads\SamuelSerrezuela-Act3\SamuelSerrezuela-Act3\Punto 5\bin\Debug\net10.0\Punto 5.runtimeconfig.json
+C:\Users\alumno\Downloads\SamuelSerrezuela-Act3\SamuelSerrezuela-Act3\Punto 5\bin\Debug\net10.0\Punto 5.dll
+C:\Users\alumno\Downloads\SamuelSerrezuela-Act3\SamuelSerrezuela-Act3\Punto 5\bin\Debug\net10.0\Punto 5.pdb
+C:\Users\alumno\Downloads\SamuelSerrezuela-Act3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\Punto 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Downloads\SamuelSerrezuela-Act3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\Punto 5.AssemblyInfoInputs.cache
+C:\Users\alumno\Downloads\SamuelSerrezuela-Act3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\Punto 5.AssemblyInfo.cs
+C:\Users\alumno\Downloads\SamuelSerrezuela-Act3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\Punto 5.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\SamuelSerrezuela-Act3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\Punto 5.dll
+C:\Users\alumno\Downloads\SamuelSerrezuela-Act3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\refint\Punto 5.dll
+C:\Users\alumno\Downloads\SamuelSerrezuela-Act3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\Punto 5.pdb
+C:\Users\alumno\Downloads\SamuelSerrezuela-Act3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\Punto 5.genruntimeconfig.cache
+C:\Users\alumno\Downloads\SamuelSerrezuela-Act3\SamuelSerrezuela-Act3\Punto 5\obj\Debug\net10.0\ref\Punto 5.dll
