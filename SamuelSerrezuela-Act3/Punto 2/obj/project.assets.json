@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alumno\\Downloads\\SamuelSerrezuela-Act3\\SamuelSerrezuela-Act3\\Punto 2\\Punto 2.csproj",
+      "projectUniqueName": "C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\SamuelSerrezuela-Act3\\Punto 2\\Punto 2.csproj",
       "projectName": "Punto 2",
-      "projectPath": "C:\\Users\\alumno\\Downloads\\SamuelSerrezuela-Act3\\SamuelSerrezuela-Act3\\Punto 2\\Punto 2.csproj",
+      "projectPath": "C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\SamuelSerrezuela-Act3\\Punto 2\\Punto 2.csproj",
       "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alumno\\Downloads\\SamuelSerrezuela-Act3\\SamuelSerrezuela-Act3\\Punto 2\\obj\\",
+      "outputPath": "C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\SamuelSerrezuela-Act3\\Punto 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",

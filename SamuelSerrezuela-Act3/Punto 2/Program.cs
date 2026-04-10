@@ -13,41 +13,57 @@ namespace Punto2
     y a este resultado se lo multiplica por el tercero.
 
 */
-    internal class Program
+
+
+    class ProcesoNumeros
     {
-        static void Main(string[] args)
+        public int n1, n2, n3;
+
+        public void Cargar()
+        {
+            Console.Write("Ingrese primer valor: ");
+            n1 = int.Parse(Console.ReadLine());
+
+            Console.Write("Ingrese segundo valor: ");
+            n2 = int.Parse(Console.ReadLine());
+
+            Console.Write("Ingrese tercer valor: ");
+            n3 = int.Parse(Console.ReadLine());
+        }
+
+        public void Calcular()
         {
 
-            Console.Write("ingrese el primer valor: ");
-            int n1 = int.Parse(Console.ReadLine());
-
-            Console.Write("ingrese el segundo valor: ");
-            int n2 = int.Parse(Console.ReadLine());
-
-            Console.Write("ingrese el tercer valor: ");
-            int n3 = int.Parse(Console.ReadLine());
-
             if (n1 == n2 && n2 == n3)
-
             {
-                int resultadoSum = (n1 + n2);
-                Console.WriteLine("resultado de la suma de los 2 primeros numeros : " + resultadoSum);
+                int suma = (n1 + n2);
+                Console.WriteLine("el resultado de la suma es : " +  suma); ;
+
+
+
                 int resultado = (n1 + n2) * n3;
-                Console.WriteLine("resultado total: " + resultado);
+                Console.WriteLine("los tres son iguales.");
+                Console.WriteLine("el resultado es: " + resultado);
             }
             else
             {
-                int resultadoSum = (n1 + n2);
-                Console.WriteLine("resultado de la suma de los 2 primeros numeros : " + resultadoSum);
-                int resultado = (n1 + n2) * n3;
-                Console.WriteLine("resultado total: " + resultado);
-                Console.WriteLine("los valores no son iguales");
-                
+                Console.WriteLine("los numeros no son iguales");
             }
+        }
+    }
+
+    class Program
+    {
+        static void Main()
+        {
+            ProcesoNumeros pn = new ProcesoNumeros();
+            pn.Cargar();
+            pn.Calcular();
+
             Console.ReadKey();
-            
         }
     }
 }
+
 
  
