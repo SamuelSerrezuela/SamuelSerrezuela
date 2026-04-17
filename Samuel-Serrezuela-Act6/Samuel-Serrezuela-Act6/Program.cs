@@ -11,52 +11,55 @@ positivas, si x>;0 e y<;0 segundo cuadrante, etc.)
 */
 
 
-
-class Punto
+namespace Punto1
 {
-
-    public float x;
-    public float y;
-
-
-    public void cargar()
+    class Punto
     {
-        Console.Write("ingresa X : ");
-        x = float.Parse(Console.ReadLine());
 
-        Console.Write("ingresa Y : ");
-        y = float.Parse(Console.ReadLine());
-    }
+        public float x;
+        public float y;
 
 
-    public void imprimirCuadrante()
-    {
-        if (x > 0 && y > 0)
+        public void cargar()
         {
-            Console.WriteLine("Está en el 1º Cuadrante.");
+            Console.Write("ingresa X : ");
+            x = float.Parse(Console.ReadLine());
+
+            Console.Write("ingresa Y : ");
+            y = float.Parse(Console.ReadLine());
         }
-        else if (x < 0 && y > 0)
+
+
+        public void imprimirCuadrante()
         {
-            Console.WriteLine("Está en el 2º Cuadrante.");
+            if (x > 0 && y > 0)
+            {
+                Console.WriteLine("Está en el 1º Cuadrante.");
+            }
+            else if (x < 0 && y > 0)
+            {
+                Console.WriteLine("Está en el 2º Cuadrante.");
+            }
+            else if (x < 0 && y < 0)
+            {
+                Console.WriteLine("Está en el 3º Cuadrante.");
+            }
+            else
+            {
+                Console.WriteLine("El punto está sobre un eje o en el centro.");
+            }
         }
-        else if (x < 0 && y < 0)
+
+
+
+
+        static void Main(string[] args)
         {
-            Console.WriteLine("Está en el 3º Cuadrante.");
+            Punto p = new Punto();
+            p.cargar();
+            p.imprimirCuadrante();
+            Console.ReadKey();
         }
-        else
-        {
-            Console.WriteLine("El punto está sobre un eje o en el centro.");
-        }
-    }
-
-
-
-
-    static void Main(string[] args)
-    {
-        Punto p = new Punto();
-        p.cargar();
-        p.imprimirCuadrante();
     }
 }
 

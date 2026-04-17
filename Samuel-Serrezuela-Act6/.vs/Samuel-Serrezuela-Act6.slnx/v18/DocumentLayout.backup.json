@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alumno\\source\\repos\\Samuel-Serrezuela-Act6\\",
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{826E4915-C503-46AE-B259-3859DCE36369}|punto 4\\punto 4.csproj|c:\\users\\alumno\\source\\repos\\samuel-serrezuela-act6\\punto 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826E4915-C503-46AE-B259-3859DCE36369}|punto 4\\punto 4.csproj|solutionrelative:punto 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21331185-4C1C-433C-B21A-55F9224C8BBF}|Samuel-Serrezuela-Act6\\Samuel-Serrezuela-Act6.csproj|C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\samuel-serrezuela-act6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21331185-4C1C-433C-B21A-55F9224C8BBF}|Samuel-Serrezuela-Act6\\Samuel-Serrezuela-Act6.csproj|solutionrelative:samuel-serrezuela-act6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E2D920-04AC-4854-93A1-FA5CCB5452BC}|Punto 3\\Punto 3.csproj|c:\\users\\alumno\\source\\repos\\samuel-serrezuela-act6\\punto 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76E2D920-04AC-4854-93A1-FA5CCB5452BC}|Punto 3\\Punto 3.csproj|C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\punto 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76E2D920-04AC-4854-93A1-FA5CCB5452BC}|Punto 3\\Punto 3.csproj|solutionrelative:punto 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7880166-54ED-4403-851D-8FFF33BBFF96}|Punto 2\\Punto 2.csproj|c:\\users\\alumno\\source\\repos\\samuel-serrezuela-act6\\punto 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7880166-54ED-4403-851D-8FFF33BBFF96}|Punto 2\\Punto 2.csproj|C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\punto 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7880166-54ED-4403-851D-8FFF33BBFF96}|Punto 2\\Punto 2.csproj|solutionrelative:punto 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21331185-4C1C-433C-B21A-55F9224C8BBF}|Samuel-Serrezuela-Act6\\Samuel-Serrezuela-Act6.csproj|C:\\Users\\alumno\\source\\repos\\Samuel-Serrezuela-Act6\\samuel-serrezuela-act6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21331185-4C1C-433C-B21A-55F9224C8BBF}|Samuel-Serrezuela-Act6\\Samuel-Serrezuela-Act6.csproj|solutionrelative:samuel-serrezuela-act6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{826E4915-C503-46AE-B259-3859DCE36369}|punto 4\\punto 4.csproj|c:\\users\\alumno\\desktop\\samuel\\samuelserrezuela\\samuel-serrezuela-act6\\punto 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E4915-C503-46AE-B259-3859DCE36369}|punto 4\\punto 4.csproj|solutionrelative:punto 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\Samuel-Serrezuela-Act6\\punto 4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\punto 4\\Program.cs",
               "RelativeDocumentMoniker": "punto 4\\Program.cs",
-              "ToolTip": "C:\\Users\\alumno\\source\\repos\\Samuel-Serrezuela-Act6\\punto 4\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\punto 4\\Program.cs",
               "RelativeToolTip": "punto 4\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwDAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T13:18:25.82Z",
               "EditorCaption": ""
@@ -45,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\Samuel-Serrezuela-Act6\\Punto 3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\Punto 3\\Program.cs",
               "RelativeDocumentMoniker": "Punto 3\\Program.cs",
-              "ToolTip": "C:\\Users\\alumno\\source\\repos\\Samuel-Serrezuela-Act6\\Punto 3\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\Punto 3\\Program.cs",
               "RelativeToolTip": "Punto 3\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwCAAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T12:04:53.686Z",
               "EditorCaption": ""
@@ -58,24 +58,24 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\Samuel-Serrezuela-Act6\\Punto 2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\Punto 2\\Program.cs",
               "RelativeDocumentMoniker": "Punto 2\\Program.cs",
-              "ToolTip": "C:\\Users\\alumno\\source\\repos\\Samuel-Serrezuela-Act6\\Punto 2\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\Punto 2\\Program.cs",
               "RelativeToolTip": "Punto 2\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwBUAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T12:24:43.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\Samuel-Serrezuela-Act6\\Samuel-Serrezuela-Act6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\Samuel-Serrezuela-Act6\\Program.cs",
               "RelativeDocumentMoniker": "Samuel-Serrezuela-Act6\\Program.cs",
-              "ToolTip": "C:\\Users\\alumno\\source\\repos\\Samuel-Serrezuela-Act6\\Samuel-Serrezuela-Act6\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\Samuel-Serrezuela-Act6\\Program.cs",
               "RelativeToolTip": "Samuel-Serrezuela-Act6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T11:27:45.235Z",
               "EditorCaption": ""
