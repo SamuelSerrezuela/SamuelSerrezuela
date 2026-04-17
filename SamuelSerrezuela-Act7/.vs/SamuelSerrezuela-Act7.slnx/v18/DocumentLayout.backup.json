@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\source\\repos\\SamuelSerrezuela-Act7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8185684F-A340-4F25-9B6F-FE14A9576AE2}|punto4\\punto4.csproj|c:\\users\\alumno\\source\\repos\\samuelserrezuela-act7\\punto4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8185684F-A340-4F25-9B6F-FE14A9576AE2}|punto4\\punto4.csproj|solutionrelative:punto4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8566D98B-5740-45EB-8F7B-D0B68BEE4854}|punto3\\punto3.csproj|c:\\users\\alumno\\source\\repos\\samuelserrezuela-act7\\punto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8566D98B-5740-45EB-8F7B-D0B68BEE4854}|punto3\\punto3.csproj|solutionrelative:punto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802654A9-4C85-4A27-BA0B-F9ADB934852F}|punto2\\punto2.csproj|C:\\Users\\alumno\\source\\repos\\SamuelSerrezuela-Act7\\punto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802654A9-4C85-4A27-BA0B-F9ADB934852F}|punto2\\punto2.csproj|solutionrelative:punto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BE89B2-5097-4309-9136-EF38BE98EB19}|punto1\\punto1.csproj|C:\\Users\\alumno\\source\\repos\\SamuelSerrezuela-Act7\\punto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BE89B2-5097-4309-9136-EF38BE98EB19}|punto1\\punto1.csproj|solutionrelative:punto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\SamuelSerrezuela-Act7\\punto4\\Program.cs",
+              "RelativeDocumentMoniker": "punto4\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\SamuelSerrezuela-Act7\\punto4\\Program.cs",
+              "RelativeToolTip": "punto4\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T11:40:14.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\SamuelSerrezuela-Act7\\punto3\\Program.cs",
+              "RelativeDocumentMoniker": "punto3\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\SamuelSerrezuela-Act7\\punto3\\Program.cs",
+              "RelativeToolTip": "punto3\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:13:48.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\SamuelSerrezuela-Act7\\punto2\\Program.cs",
+              "RelativeDocumentMoniker": "punto2\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\SamuelSerrezuela-Act7\\punto2\\Program.cs",
+              "RelativeToolTip": "punto2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:45:38.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\SamuelSerrezuela-Act7\\punto1\\Program.cs",
+              "RelativeDocumentMoniker": "punto1\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\SamuelSerrezuela-Act7\\punto1\\Program.cs",
+              "RelativeToolTip": "punto1\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:26:51.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
