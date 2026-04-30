@@ -1,0 +1,7 @@
+E:\2026 P.o.o\9\SamuelSerrezuela-Act9\punto 1\bin\Debug\punto 1.exe.config
+E:\2026 P.o.o\9\SamuelSerrezuela-Act9\punto 1\bin\Debug\punto 1.exe
+E:\2026 P.o.o\9\SamuelSerrezuela-Act9\punto 1\bin\Debug\punto 1.pdb
+E:\2026 P.o.o\9\SamuelSerrezuela-Act9\punto 1\obj\Debug\punto 1.csproj.AssemblyReference.cache
+E:\2026 P.o.o\9\SamuelSerrezuela-Act9\punto 1\obj\Debug\punto 1.csproj.CoreCompileInputs.cache
+E:\2026 P.o.o\9\SamuelSerrezuela-Act9\punto 1\obj\Debug\punto 1.exe
+E:\2026 P.o.o\9\SamuelSerrezuela-Act9\punto 1\obj\Debug\punto 1.pdb

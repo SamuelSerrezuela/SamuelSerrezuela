@@ -1,0 +1,7 @@
+E:\2026 P.o.o\8\punto 1\SamuelSerrezuela-Act8\bin\Debug\SamuelSerrezuela-Act8.exe.config
+E:\2026 P.o.o\8\punto 1\SamuelSerrezuela-Act8\bin\Debug\SamuelSerrezuela-Act8.exe
+E:\2026 P.o.o\8\punto 1\SamuelSerrezuela-Act8\bin\Debug\SamuelSerrezuela-Act8.pdb
+E:\2026 P.o.o\8\punto 1\SamuelSerrezuela-Act8\obj\Debug\SamuelSerrezuela-Act8.csproj.AssemblyReference.cache
+E:\2026 P.o.o\8\punto 1\SamuelSerrezuela-Act8\obj\Debug\SamuelSerrezuela-Act8.csproj.CoreCompileInputs.cache
+E:\2026 P.o.o\8\punto 1\SamuelSerrezuela-Act8\obj\Debug\SamuelSerrezuela-Act8.exe
+E:\2026 P.o.o\8\punto 1\SamuelSerrezuela-Act8\obj\Debug\SamuelSerrezuela-Act8.pdb

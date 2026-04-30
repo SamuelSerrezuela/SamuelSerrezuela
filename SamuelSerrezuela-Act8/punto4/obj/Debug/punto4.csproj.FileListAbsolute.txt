@@ -1,0 +1,7 @@
+E:\2026 P.o.o\8\punto 1\punto4\bin\Debug\punto4.exe.config
+E:\2026 P.o.o\8\punto 1\punto4\bin\Debug\punto4.exe
+E:\2026 P.o.o\8\punto 1\punto4\bin\Debug\punto4.pdb
+E:\2026 P.o.o\8\punto 1\punto4\obj\Debug\punto4.csproj.AssemblyReference.cache
+E:\2026 P.o.o\8\punto 1\punto4\obj\Debug\punto4.csproj.CoreCompileInputs.cache
+E:\2026 P.o.o\8\punto 1\punto4\obj\Debug\punto4.exe
+E:\2026 P.o.o\8\punto 1\punto4\obj\Debug\punto4.pdb

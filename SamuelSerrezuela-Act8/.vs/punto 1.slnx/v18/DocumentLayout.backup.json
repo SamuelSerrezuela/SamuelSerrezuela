@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2026 P.o.o\\8\\punto 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26756387-AFBB-4F0F-A142-F66DF4E1FF75}|punto4\\punto4.csproj|e:\\2026 p.o.o\\8\\punto 1\\punto4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26756387-AFBB-4F0F-A142-F66DF4E1FF75}|punto4\\punto4.csproj|solutionrelative:punto4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A73FE49-75F9-4D6C-AA24-4ED692E6DAA8}|punto3\\punto3.csproj|e:\\2026 p.o.o\\8\\punto 1\\punto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A73FE49-75F9-4D6C-AA24-4ED692E6DAA8}|punto3\\punto3.csproj|solutionrelative:punto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8CD051-4064-4A4F-88D5-CCF879698DF3}|punto2\\punto2.csproj|e:\\2026 p.o.o\\8\\punto 1\\punto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8CD051-4064-4A4F-88D5-CCF879698DF3}|punto2\\punto2.csproj|solutionrelative:punto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98B2F0E-9F43-4029-9142-E5D2C24D5E4B}|SamuelSerrezuela-Act8\\SamuelSerrezuela-Act8.csproj|e:\\2026 p.o.o\\8\\punto 1\\samuelserrezuela-act8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98B2F0E-9F43-4029-9142-E5D2C24D5E4B}|SamuelSerrezuela-Act8\\SamuelSerrezuela-Act8.csproj|solutionrelative:samuelserrezuela-act8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2026 P.o.o\\8\\punto 1\\punto4\\Program.cs",
+              "RelativeDocumentMoniker": "punto4\\Program.cs",
+              "ToolTip": "E:\\2026 P.o.o\\8\\punto 1\\punto4\\Program.cs",
+              "RelativeToolTip": "punto4\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T01:24:11.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2026 P.o.o\\8\\punto 1\\punto3\\Program.cs",
+              "RelativeDocumentMoniker": "punto3\\Program.cs",
+              "ToolTip": "E:\\2026 P.o.o\\8\\punto 1\\punto3\\Program.cs",
+              "RelativeToolTip": "punto3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T01:23:12.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2026 P.o.o\\8\\punto 1\\punto2\\Program.cs",
+              "RelativeDocumentMoniker": "punto2\\Program.cs",
+              "ToolTip": "E:\\2026 P.o.o\\8\\punto 1\\punto2\\Program.cs",
+              "RelativeToolTip": "punto2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T01:21:29.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2026 P.o.o\\8\\punto 1\\SamuelSerrezuela-Act8\\Program.cs",
+              "RelativeDocumentMoniker": "SamuelSerrezuela-Act8\\Program.cs",
+              "ToolTip": "E:\\2026 P.o.o\\8\\punto 1\\SamuelSerrezuela-Act8\\Program.cs",
+              "RelativeToolTip": "SamuelSerrezuela-Act8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T01:07:28.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
