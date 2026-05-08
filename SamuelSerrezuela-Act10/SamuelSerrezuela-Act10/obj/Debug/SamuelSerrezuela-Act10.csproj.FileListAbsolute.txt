@@ -1,0 +1,7 @@
+C:\Users\alumno\source\repos\SamuelSerrezuela-Act10\SamuelSerrezuela-Act10\bin\Debug\SamuelSerrezuela-Act10.exe.config
+C:\Users\alumno\source\repos\SamuelSerrezuela-Act10\SamuelSerrezuela-Act10\bin\Debug\SamuelSerrezuela-Act10.exe
+C:\Users\alumno\source\repos\SamuelSerrezuela-Act10\SamuelSerrezuela-Act10\bin\Debug\SamuelSerrezuela-Act10.pdb
+C:\Users\alumno\source\repos\SamuelSerrezuela-Act10\SamuelSerrezuela-Act10\obj\Debug\SamuelSerrezuela-Act10.csproj.AssemblyReference.cache
+C:\Users\alumno\source\repos\SamuelSerrezuela-Act10\SamuelSerrezuela-Act10\obj\Debug\SamuelSerrezuela-Act10.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\SamuelSerrezuela-Act10\SamuelSerrezuela-Act10\obj\Debug\SamuelSerrezuela-Act10.exe
+C:\Users\alumno\source\repos\SamuelSerrezuela-Act10\SamuelSerrezuela-Act10\obj\Debug\SamuelSerrezuela-Act10.pdb

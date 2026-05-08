@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21331185-4C1C-433C-B21A-55F9224C8BBF}|Samuel-Serrezuela-Act6\\Samuel-Serrezuela-Act6.csproj|C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\samuel-serrezuela-act6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21331185-4C1C-433C-B21A-55F9224C8BBF}|Samuel-Serrezuela-Act6\\Samuel-Serrezuela-Act6.csproj|c:\\users\\alumno\\desktop\\samuel\\samuelserrezuela\\samuel-serrezuela-act6\\samuel-serrezuela-act6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21331185-4C1C-433C-B21A-55F9224C8BBF}|Samuel-Serrezuela-Act6\\Samuel-Serrezuela-Act6.csproj|solutionrelative:samuel-serrezuela-act6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{F7880166-54ED-4403-851D-8FFF33BBFF96}|Punto 2\\Punto 2.csproj|solutionrelative:punto 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826E4915-C503-46AE-B259-3859DCE36369}|punto 4\\punto 4.csproj|c:\\users\\alumno\\desktop\\samuel\\samuelserrezuela\\samuel-serrezuela-act6\\punto 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{826E4915-C503-46AE-B259-3859DCE36369}|punto 4\\punto 4.csproj|C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\punto 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826E4915-C503-46AE-B259-3859DCE36369}|punto 4\\punto 4.csproj|solutionrelative:punto 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "punto 4\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T13:18:25.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T13:18:25.82Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "Punto 3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T12:04:53.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T12:04:53.686Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "Punto 2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T12:24:43.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T12:24:43.892Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "Samuel-Serrezuela-Act6\\Program.cs",
               "ToolTip": "C:\\Users\\alumno\\Desktop\\Samuel\\SamuelSerrezuela\\Samuel-Serrezuela-Act6\\Samuel-Serrezuela-Act6\\Program.cs",
               "RelativeToolTip": "Samuel-Serrezuela-Act6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T11:27:45.235Z",
               "EditorCaption": ""
