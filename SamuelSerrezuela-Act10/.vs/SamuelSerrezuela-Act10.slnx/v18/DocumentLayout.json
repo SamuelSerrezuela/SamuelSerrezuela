@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno.ET26\\source\\repos\\SamuelSerrezuela-Act10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52ED7386-6E5A-48F4-A574-C1B5142B2060}|punto 3\\punto 3.csproj|c:\\users\\alumno.et26\\source\\repos\\samuelserrezuela-act10\\punto 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52ED7386-6E5A-48F4-A574-C1B5142B2060}|punto 3\\punto 3.csproj|solutionrelative:punto 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D699426-BBC1-4065-98DC-2171E06FF218}|punto2\\punto2.csproj|c:\\users\\alumno.et26\\source\\repos\\samuelserrezuela-act10\\punto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D699426-BBC1-4065-98DC-2171E06FF218}|punto2\\punto2.csproj|solutionrelative:punto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABD4F43-D89E-4240-BBB3-96E3F3368970}|punto1\\punto1.csproj|c:\\users\\alumno.et26\\source\\repos\\samuelserrezuela-act10\\punto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABD4F43-D89E-4240-BBB3-96E3F3368970}|punto1\\punto1.csproj|solutionrelative:punto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno.ET26\\source\\repos\\SamuelSerrezuela-Act10\\punto 3\\Program.cs",
+              "RelativeDocumentMoniker": "punto 3\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno.ET26\\source\\repos\\SamuelSerrezuela-Act10\\punto 3\\Program.cs",
+              "RelativeToolTip": "punto 3\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:36:36.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno.ET26\\source\\repos\\SamuelSerrezuela-Act10\\punto2\\Program.cs",
+              "RelativeDocumentMoniker": "punto2\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno.ET26\\source\\repos\\SamuelSerrezuela-Act10\\punto2\\Program.cs",
+              "RelativeToolTip": "punto2\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:21:29.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno.ET26\\source\\repos\\SamuelSerrezuela-Act10\\punto1\\Program.cs",
+              "RelativeDocumentMoniker": "punto1\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno.ET26\\source\\repos\\SamuelSerrezuela-Act10\\punto1\\Program.cs",
+              "RelativeToolTip": "punto1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:11:19.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
